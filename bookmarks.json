@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Frontend",
+    "url": "localhost:4200",
+    "role": "bookmark",
+    "parentFolder": "default"
+  },
+  {
+    "title": "Backend",
+    "url": "localhost:8080",
+    "role": "bookmark",
+    "parentFolder": "default"
+  }
+]
