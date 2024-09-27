@@ -1,13 +1,43 @@
 [
   {
+    "title": "Frontend Dev",
+    "url": "",
+    "role": "folder",
+    "parentFolder": "default"
+  },
+  {
     "title": "Frontend",
     "url": "localhost:4200",
     "role": "bookmark",
+    "parentFolder": "Frontend Dev"
+  },
+  {
+    "title": "Frontend Git Hub",
+    "url": "https://github.com/joeyr96/frontend",
+    "role": "bookmark",
+    "parentFolder": "Frontend Dev"
+  },
+  {
+    "title": "Backend Dev",
+    "url": "",
+    "role": "folder",
     "parentFolder": "default"
   },
   {
     "title": "Backend",
     "url": "localhost:8080",
+    "role": "bookmark",
+    "parentFolder": "Backend Dev"
+  },
+  {
+    "title": "Backend Git Hub",
+    "url": "https://github.com/joeyr96/backend",
+    "role": "bookmark",
+    "parentFolder": "Backend Dev"
+  },
+  {
+    "title": "Copilot",
+    "url": "https://copilot.microsoft.com/",
     "role": "bookmark",
     "parentFolder": "default"
   }
